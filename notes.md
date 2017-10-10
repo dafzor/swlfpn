@@ -1,6 +1,6 @@
 # Secret World Legends **Fake** _Change Notes_
 
-These _change notes_ were written as a thought exercise on ways I believe the  game would be better. It focus only on Quality of life and game play improvements ignoring any bug or performance fixing that the game would also benefit from.
+These _change notes_ were written as a thought exercise on ways I believe the  game would be better. It focus only on Quality of life and game play improvements ignoring any bug or performance fixing that the game would also benefit from or content additions.
 
 **This document is in no way associated with Funcom or in any way reflects current or future plans for the game and are only meant to serve as a discussion topic.**
 
@@ -56,6 +56,7 @@ _Intentions: This should avoid the feeling of regret when slotting in lesser ver
 
 * Magic and Physical Protection have been combined into a single Protection Stat
 * Talismans with Health and Healing power now also have attack power (75% of equivalent dps talisman)
+* Extraordinary Protection bonus effects now scale based of the player Protection rating.
 
 _Intentions: Simplify item tooltip. Allow healers and tanks to be able to more easily do story content on their higher level talismans while maintaining the ability of mix and matching different talismans._
 
@@ -99,15 +100,42 @@ _Intentions: Current blood gimmick makes blood users a liability and forces heal
 
 ### Assault Rifle
 
-* Grenades will no longer explode damaging the player when not used
+* Grenades will no longer explode damaging the player when not used.
 
 _Intentions: Grenades are a major component of rifle damage, wasting it is already penalty enough. Has a curiosity [actual grenade launcher rounds don't arm themselves until they travel 14 to 27 meters](https://en.wikipedia.org/wiki/M203_grenade_launcher#Rounds), so they would never explode on the user._
+
+## Scenarios
+
+* Scenario hazards and reinforcements fixed per scenario and changed every day on the reset.
+* There is now a vending machine at the starting area of a scenario selling a limited quantities of scenario items (turrets, group heals and weapon) for anima shards.
+* Scenario items will no longer persist after then scenario ends.
+* It's now possible to also solo queue for specific scenarios.
+* Wave duration has been reduced to 2 minutes.
+* Survivors will now show up as party members in Party frames making it easier to heal them.
+* Tokyo enemies will no longer be part of the castle enemy rotation.
+
+_Intentions: Scenario are excessively random making their difficulty too variable. These changes should make them a bit more predictable._
+
+## Dungeons
+
+* All elite tiers higher then Elite 5 have been removed.
+* New tier of dungeons has been added called Nightmare equivalent to elite 6 and above with IP requirement of 500 for all tiers.
+* Nightmare dungeons can only be queued with private groups. There is no random option.
+* It's possible to Meet Up into a Nightmare dungeon if part of the dungeon group.
+* Every 3rd tier of Nightmare a new hazard is added. These hazards will rotate on a weekly basis per dungeon and not all dungeons will get all hazards.
+* Some Hazard examples:
+  * Horde, all bosses will summon additional enemies reinforcements every 30s
+  * Shielding, all enemies will now cast a shield making them immune to impairs/interrupts, can be purged.
+  * Filth, upon death enemies will leave a permanent filth pool that does damage.
+
+_Intentions: Make harder content require pre-made group to improve group cohesion and completion rates. Increase the pool of available players for harder content. Add variety and challenges to dungeon farming._
 
 ## Interface and Controls
 
 * Use keybind now also acts as Confirm (default: F)
 * Cancel keybind (default: G) no longer opens Esc menu. It now also cancels cinematic and clears targets.
 * Confirmation dialogues now can be accepted or rejected with Confirm and Cancel keybinds.
+* Cache and Chest open dialogues can now be opened by pressing Confirm keybind.
 * Missions can now be accepted by pressing Confirm keybind.
 * Mission deliveries dialogue can now be confirmed or dismissed with Confirm and Cancel keybinds.
 * When having an mission list open, scrolling the mouse wheel will cycle the available missions on the NPC.
@@ -121,4 +149,10 @@ _Intentions: Grenades are a major component of rifle damage, wasting it is alrea
 
 _Intentions: To smooth out the quirks in the interface and make the game more enjoyable to play._
 
-## Miscellaneous
+## Movement
+
+* Jumping has been changed so that players can always jump once even if falling.
+* Permanent filth zones (like the ones in tokyo) will no longer remove sprint.
+* It's now possible to teleport when swimming.
+
+_Intentions: Jumping can be extremely frustrating, this would make it more consistent at the risk of some potential exploits._
