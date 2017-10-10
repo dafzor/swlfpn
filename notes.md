@@ -117,7 +117,7 @@ _Intentions: Grenades are a major component of rifle damage, wasting it is alrea
 
 _Intentions: Scenario are excessively random making their difficulty too variable. These changes should make them a bit more predictable._
 
-## Dungeons
+## Dungeons and Raids
 
 * All elite tiers higher then Elite 5 have been removed.
 * New tier of dungeons has been added called Nightmare equivalent to elite 6 and above with IP requirement of 500 for all tiers.
@@ -128,6 +128,7 @@ _Intentions: Scenario are excessively random making their difficulty too variabl
   * Horde, all bosses will summon additional enemies reinforcements every 30s
   * Shielding, all enemies will now cast a shield making them immune to impairs/interrupts, can be purged.
   * Filth, upon death enemies will leave a permanent filth pool that does damage.
+* Elite 10 raid has been renamed Nightmare working similarly to the dungeon nightmares.
 
 _Intentions: Make harder content require pre-made group to improve group cohesion and completion rates. Increase the pool of available players for harder content. Add variety and challenges to dungeon farming._
 
