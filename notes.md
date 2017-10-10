@@ -75,8 +75,9 @@ _Intentions: Hammer is currently mandatory tanking weapon, this change intends t
 
 * Turmoil places an affliction on the mobs affect that makes x% (based on evasion chance) of the damage be done on them instead of you.
 * Immutable effect has been slightly reworked, it now places a shield equivalent to 40% of your HP instead of restoring 40% hp.
+* New passive Helter Skelter, turns your dodge into a dash moving you forward 10 meters and slowing enemies as you pass by.
 
-_Intentions: Immutable is by far the strongest tank cooldown which makes self sustain possible, this intends to still keep it has a strong cooldown while still making healers required._
+_Intentions: Immutable is by far the strongest tank cooldown which makes self sustain possible, this intends to still keep it has a strong cooldown while still making healers required. Try to bring back a must loved ability._
 
 ### Shotgun
 
