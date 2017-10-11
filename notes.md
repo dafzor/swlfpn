@@ -105,6 +105,13 @@ _Intentions: Current blood gimmick makes blood users a liability and forces heal
 
 _Intentions: Grenades are a major component of rifle damage, wasting it is already penalty enough. Has a curiosity [actual grenade launcher rounds don't arm themselves until they travel 14 to 27 meters](https://en.wikipedia.org/wiki/M203_grenade_launcher#Rounds), so they would never explode on the user._
 
+### Elementalism Focus
+
+* New gimick, Elemental dynamo. Elemental attacks give you a damage multiplier that diminishes over 10s. Using a different elements will refresh your multiplier to full power. Each element will only refresh your multiplier once every 10s.
+* New passive, Scholar. Offhand weapon attacks and gadgets will count as an element.
+
+_Intentions: I honestly don't think a simple fix would be able to make the overheat mechanic more enjoyable. As such this is just the best I could come up with to try and replace it. It would still require a full rework of passives and abilities which i've not included._
+
 ## Scenarios
 
 * Scenario hazards and reinforcements fixed per scenario and changed every day on the reset.
