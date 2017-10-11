@@ -75,7 +75,7 @@ _Intentions: Hammer is currently mandatory tanking weapon, this change intends t
 
 * Turmoil places an affliction on the mobs affect that makes x% (based on evasion chance) of the damage be done on them instead of you.
 * Immutable effect has been slightly reworked, it now places a shield equivalent to 40% of your HP instead of restoring 40% hp.
-* New passive Helter Skelter, turns your dodge into a dash moving you forward 10 meters and slowing enemies as you pass by.
+* New passive, Helter Skelter. Turns your dodge into a dash moving you forward 10 meters and slowing enemies as you pass by.
 
 _Intentions: Immutable is by far the strongest tank cooldown which makes self sustain possible, this intends to still keep it has a strong cooldown while still making healers required. Try to bring back a must loved ability._
 
@@ -107,7 +107,7 @@ _Intentions: Grenades are a major component of rifle damage, wasting it is alrea
 
 ### Elementalism Focus
 
-* New gimick, Elemental dynamo. Elemental attacks give you a damage multiplier that diminishes over 10s. Using a different elements will refresh your multiplier to full power. Each element will only refresh your multiplier once every 10s.
+* New gimmick, Elemental dynamo. Elemental attacks give you a damage multiplier that diminishes over 10s. Using a different elements will refresh your multiplier to full power. Each element will only refresh your multiplier once every 10s.
 * New passive, Scholar. Offhand weapon attacks and gadgets will count as an element.
 
 _Intentions: I honestly don't think a simple fix would be able to make the overheat mechanic more enjoyable. As such this is just the best I could come up with to try and replace it. It would still require a full rework of passives and abilities which i've not included._
